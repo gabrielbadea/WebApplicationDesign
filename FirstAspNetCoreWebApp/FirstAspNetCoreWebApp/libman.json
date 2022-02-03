@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "jquery@3.6.0",
+      "files": [ "jquery.min.js", "jquery.min.map" ],
+      "destination": "wwwroot/lib"
+    },
+    {
+      "library": "angular@12.2.16",
+      "destination": "wwwroot/lib/angular/"
+    }
+  ]
+}
