@@ -1,0 +1,59 @@
+﻿@{
+    ViewData["Title"] = "Page with locations";
+}
+
+@section Scripts {
+    <script type="text/javascript">
+        function populateLocationsDropdown() {
+            var dataToSend = { 
+                locationType: $("#locationTypeSelect").val()
+            };
+
+            $.ajax({
+                url: "/Location/FindLocations",
+                type: "POST",
+                data: dataToSend,
+                success: function (locationsResponse) {
+                    $("#locationsSelect").empty();
+                    locationsResponse.forEach(function (element) {
+                        $("#locationsSelect").append("<option>" + element.locationName + "</option>");
+                    });
+                },
+                error: function () {
+                    $("#locationsSelect").empty();
+                }
+            });
+        }
+
+        $("#locationTypeSelect").on('change', populateLocationsDropdown);
+        populateLocationsDropdown();
+
+    </script>
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to the page with locations.</h1>
+    <p>This is a sample page to display an AJAX call.</p>
+</div>
+
+<form action="Index" id="locationsForm" method="post">
+     
+    <fieldset>
+        <label>Select the type of locations.</label>
+        <label class="select">
+            <select id="locationTypeSelect">
+                <option value="numeric_locations">Numeric</option>
+                <option value="textual_locations">Textual</option>
+            </select>
+        </label>
+    </fieldset>
+
+    <fieldset>
+        <label>Locations:</label>
+        <label class="select">
+            <select id="locationsSelect"></select> <i></i>
+        </label>
+    </fieldset>
+
+    <button id="saveBtn" type="submit" class="btn btn-primary">Save</button>
+</form>
