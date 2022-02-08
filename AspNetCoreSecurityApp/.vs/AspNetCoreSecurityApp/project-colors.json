@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4ae15aa5-8dd4-4a34-8aaf-40f4d4870b00": {
+      "ProjectGuid": "4ae15aa5-8dd4-4a34-8aaf-40f4d4870b00",
+      "DisplayName": "AspNetCoreSecurityApp",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
