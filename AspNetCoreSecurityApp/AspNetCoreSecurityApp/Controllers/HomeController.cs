@@ -6,7 +6,6 @@ using System.Diagnostics;
 
 namespace AspNetCoreSecurityApp.Controllers
 {
-    //[Authorize]
     [Authorize(Roles = "Administrator,User")]
     public class HomeController : Controller
     {
@@ -17,14 +16,12 @@ namespace AspNetCoreSecurityApp.Controllers
             _logger = logger;
         }
 
-        //[AllowAnonymous]
-        [Authorize(Roles = "Administrator")]
         public IActionResult Index()
         {
             return View();
         }
 
-        //[Authorize]
+        [Authorize(Roles = "Administrator")]
         public IActionResult Privacy()
         {
             return View();
