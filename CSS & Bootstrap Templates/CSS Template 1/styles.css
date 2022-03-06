@@ -1,0 +1,45 @@
+p {
+    color: green;
+}
+
+.right {
+    text-align: right;
+}
+
+#para1 {
+    color: red;
+}
+
+#para1, #para2 {
+    font-weight: bold;
+}
+
+.dotted {
+    border-style: dotted;
+}
+
+.dashed {
+    border-style: dashed;
+}
+
+.solid {
+    border-style: solid;
+}
+
+.double {
+    border-style: double;
+}
+
+#para4 {
+    margin-top: 50px;
+    margin-bottom: 75px;
+    margin-right: 100px;
+    margin-left: 50px;
+}
+
+#para3 {
+    padding-top: 20px;
+    padding-right: 25px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+}
