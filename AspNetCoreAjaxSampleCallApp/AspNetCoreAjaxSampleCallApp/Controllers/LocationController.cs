@@ -7,11 +7,11 @@ namespace AspNetCoreAjaxSampleCallApp.Controllers
     {
         private readonly List<Location> _locations = new List<Location>()
         {
-        new Location { IsNumber = true, LocationName = "Location 1" },
-        new Location { IsNumber = true, LocationName = "Location 2" },
-        new Location { IsNumber = true, LocationName = "Location 3" },
-        new Location { IsNumber = false, LocationName = "Location x" },
-        new Location { IsNumber = false, LocationName = "Location y" }
+            new Location { IsNumber = true, LocationName = "Location 1" },
+            new Location { IsNumber = true, LocationName = "Location 2" },
+            new Location { IsNumber = true, LocationName = "Location 3" },
+            new Location { IsNumber = false, LocationName = "Location x" },
+            new Location { IsNumber = false, LocationName = "Location y" }
         };
 
         public IActionResult Index()
@@ -19,7 +19,7 @@ namespace AspNetCoreAjaxSampleCallApp.Controllers
             return View();
         }
 
-        [HttpPost]
+        [HttpGet]
         public IActionResult FindLocations(string locationType)
         {
             var locations = new List<Location>();
