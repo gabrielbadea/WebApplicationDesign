@@ -19,7 +19,7 @@ namespace AspNetCoreServicesApp.Controllers
             return View();
         }
 
-        [HttpPost]
+        [HttpGet]
         public IActionResult FindLocations(string locationType)
         {
             var locations = _locationService.GetLocationsByType(locationType);

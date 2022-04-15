@@ -11,7 +11,7 @@
 
             $.ajax({
                 url: "/Location/FindLocations",
-                type: "POST",
+                type: "GET",
                 data: dataToSend,
                 success: function (locationsResponse) {
                     $("#locationsSelect").empty();
