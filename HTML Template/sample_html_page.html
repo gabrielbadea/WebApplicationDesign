@@ -1,152 +1,159 @@
 <!DOCTYPE html>
 <html>
-<head>
-<style>
-* {
-  box-sizing: border-box;
-}
+  <head>
+  <style>
+  * {
+    box-sizing: border-box;
+  }
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
-}
+  #menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
 
-li {
-  float: left;
-}
+  #menu > li {
+    float: left;
+  }
 
-li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
+  #menu > li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
 
-li a:hover:not(.active) {
-  background-color: #111;
-}
+  #menu > li a:hover:not(.active) {
+    background-color: #111;
+  }
 
-.active {
-  background-color: blue;
-}
+  .active {
+    background-color: blue;
+  }
 
-.footer {
-   position: fixed;
-   bottom: 0;
-   width: 99.3%;
-   background-color: black;
-   color: white;
-   text-align: center;
-}
+  .footer {
+    position: fixed;
+    bottom: 0;
+    width: 99.3%;
+    background-color: black;
+    color: white;
+    text-align: center;
+  }
 
-/* Create two equal columns that floats next to each other */
-.column {
-  float: left;
-  width: 50%;
-  padding: 10px;
-  height: 700px; /* Should be removed. Only for demonstration */
-}
+  /* Create two equal columns that floats next to each other */
+  .column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 700px; /* Should be removed. Only for demonstration */
+  }
 
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
 
-</style>
-</head>
-<body>
+  </style>
+  </head>
+  <body>
 
-<ul>
-  <li><a class="active" href="#home">Home</a></li>
-  <li><a href="#news">News</a></li>
-  <li><a href="#contact">Contact</a></li>
-  <li><a href="#about">About</a></li>
-</ul>
+  <ul id="menu">
+    <li><a class="active" href="#home">Home</a></li>
+    <li><a href="#news">News</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#about">About</a></li>
+  </ul>
 
-<h1>HTML Lab</h1>
+  <h1>Web Applications Design lab</h1>
+  <h2>HTML examples</h2>
 
-<p>Introduction to HTML.</p>
+  <div class="row">
+    <div id="first-column-div" class="column" style="background-color:#aaa;">
+      <h2>Column 1 <i>(sample HTML elements)</i></h2>
+      <!-- <p>
+        Click <a href="http://www.ace.ucv.ro/">here</a> to access faculty's website.
+      </p> -->
 
-<div class="row">
-  <div id="first-column-div" class="column" style="background-color:#aaa;">
-    Click <a href="http://www.ace.ucv.ro/">here</a> to access faculty website.
+      <!-- <p>
+        <img src="Images/rose.jpg" alt="Blue rose" height="100" width="150">
+      </p> -->
+      
+      <!-- <button type="button">Click Me!</button> -->
 
-    <img src="rose.jpg" alt="Blue rose" height="100" width="150">
+      <!-- <p style="color:green;font-size: 30px;">This text is green.</p> -->
 
-    <button type="button">Click Me!</button>
+      <!-- <p title="This is a tooltip.">
+        Hover the mouse cursor over the paragraph to see the tooltip.
+      </p>   -->
 
-    <p style="color:green;font-size: 30px;">This text is green.</p>
+      <!-- This is a comment -->
+     
+      <!-- <table style="width:20%" border="1">
+        <tr>
+            <th>Name</th>
+            <th>City</th>
+            <th>Age</th>
+        </tr>
+        <tr>
+            <td>Andrei</td>
+            <td>Craiova</td>
+            <td>25</td>
+        </tr>
+        <tr>
+            <td>Bogdan</td>
+            <td>Pitesti</td>
+            <td>38</td>
+        </tr>
+      </table> -->
 
-    <p title="This is a tooltip.">
-      Hover the mouse cursor over the paragraph to see the tooltip.
-    </p>
-
-    <!-- <ul>
-      <li>First element in the list</li>
-      <li>Second element in the list</li>
-      <li>Third element in the list</li>
-    </ul> -->
-
-    <!-- This is a comment -->
-
-    <!-- <ol>
+      <!-- <ul>
         <li>First element in the list</li>
         <li>Second element in the list</li>
         <li>Third element in the list</li>
-    </ol> -->
+      </ul> -->
 
-    <table style="width:20%">
-      <tr>
-          <th>Name</th>
-          <th>City</th>
-          <th>Age</th>
-      </tr>
-      <tr>
-          <td>Andrei</td>
-          <td>Craiova</td>
-          <td>25</td>
-      </tr>
-      <tr>
-          <td>Bogdan</td>
-          <td>Pitesti</td>
-          <td>38</td>
-      </tr>
-    </table>
+      <!-- <ol>
+          <li>First element in the list</li>
+          <li>Second element in the list</li>
+          <li>Third element in the list</li>
+      </ol> -->
 
-    <div>First element</div>
-    <div>Second element</div>
+      <!-- <div>First element</div>
+      <div>Second element</div> -->
 
-    <span>First element</span>
-    <span>Second element</span>
+      <!-- <span>First element</span>
+      <span>Second element</span> -->
+      
+    </div>
+    <div id="second-column-div" class="column" style="background-color:#bbb;">
+      <h2>Column 2 <i>(sample HTML multimedia elements)</i></h2>
 
-    <video width="320" height="240" controls>
-      <source src="sample_video_file.mp4" type="video/mp4">
-      <source src="sample_video_file.ogg" type="video/ogg">
-      This browser does not support video tag.
-    </video>
+      <!-- <div>
+        <video width="320" height="240" controls>
+          <source src="sample_video_file.mp4" type="video/mp4">
+          <source src="sample_video_file.ogg" type="video/ogg">
+          This browser does not support video tag.
+        </video>
+      </div> -->
 
-    <audio controls>
-      <source src="sample_audio_file.ogg" type="audio/ogg">
-      <source src="sample_audio_file.mp3" type="audio/mpeg">
-      This browser does not support audio tag.
-    </audio>
-    
+      <!-- <div>
+        <audio controls>
+          <source src="sample_audio_file.ogg" type="audio/ogg">
+          <source src="sample_audio_file.mp3" type="audio/mpeg">
+          This browser does not support audio tag.
+        </audio>
+      </div> -->
+    </div>
   </div>
-  <div id="second-column-div" class="column" style="background-color:#bbb;">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
+
+  <div class="footer">
+    <p>Footer</p>
   </div>
-</div>
 
-<div class="footer">
-  <p>Footer</p>
-</div>
-
-</body>
+  </body>
 </html>

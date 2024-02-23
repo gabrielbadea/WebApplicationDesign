@@ -5,7 +5,6 @@ using System.Diagnostics;
 
 namespace AspNetCoreSecurityApp.Controllers
 {
-    [Authorize]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
@@ -20,6 +19,7 @@ namespace AspNetCoreSecurityApp.Controllers
             return View();
         }
 
+       
         public IActionResult Privacy()
         {
             return View();

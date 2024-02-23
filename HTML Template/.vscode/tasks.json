@@ -6,5 +6,5 @@
     "windows": {  
         "command": "explorer.exe"  
     },  
-    "args": [ "sample_page.html" ]  
+    "args": [ "sample_html_page.html" ]  
 }

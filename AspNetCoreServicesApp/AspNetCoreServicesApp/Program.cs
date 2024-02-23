@@ -37,6 +37,6 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Location}/{action=Index}/{id?}");
 
-//app.MapControllers();
+app.MapControllers();
 
 app.Run();
