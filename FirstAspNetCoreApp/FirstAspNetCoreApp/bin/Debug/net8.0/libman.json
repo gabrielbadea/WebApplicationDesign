@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "jquery@3.7.1",
+      "files": [ "jquery.min.js", "jquery.min.map" ],
+      "destination": "wwwroot/lib"
+    }
+  ]
+}
