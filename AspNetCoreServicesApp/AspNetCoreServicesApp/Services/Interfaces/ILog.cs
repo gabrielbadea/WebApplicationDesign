@@ -1,4 +1,4 @@
-﻿namespace AspNetCoreServicesApp.Services
+﻿namespace AspNetCoreServicesApp.Services.Interfaces
 {
     public interface ILog
     {

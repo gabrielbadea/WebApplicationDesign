@@ -10,14 +10,11 @@
         "projectUniqueName": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreAjaxSampleCallApp\\AspNetCoreAjaxSampleCallApp\\AspNetCoreAjaxSampleCallApp.csproj",
         "projectName": "AspNetCoreAjaxSampleCallApp",
         "projectPath": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreAjaxSampleCallApp\\AspNetCoreAjaxSampleCallApp\\AspNetCoreAjaxSampleCallApp.csproj",
-        "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
         "outputPath": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreAjaxSampleCallApp\\AspNetCoreAjaxSampleCallApp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -4,22 +4,21 @@ namespace AspNetCoreServicesApp.Controllers
 {
     public class TestController : Controller
     {
-        [Route("")]
-        [Route("Test")]
-        [Route("Test/Home")]
-        //[AcceptVerbs("GET")]
+        //[Route("")]
+        //[Route("Test")]
+        //[Route("Test/Home")]
         public IActionResult Home()
         {
             return View();
         }
 
-        [Route("About")]
+        //[Route("Test/About")]
         public IActionResult About()
         {
             return View();
         }
 
-        [Route("Test/Contact")]
+        //[Route("Test/Contact")]
         public IActionResult Contact()
         {
             return View();

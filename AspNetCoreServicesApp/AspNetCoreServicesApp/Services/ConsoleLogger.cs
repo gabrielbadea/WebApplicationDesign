@@ -1,4 +1,6 @@
-﻿namespace AspNetCoreServicesApp.Services
+﻿using AspNetCoreServicesApp.Services.Interfaces;
+
+namespace AspNetCoreServicesApp.Services
 {
     public class ConsoleLogger : ILog
     {

@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.5.33424.131
+VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreServicesApp", "AspNetCoreServicesApp\AspNetCoreServicesApp.csproj", "{F9748FB2-D3DE-4DC3-9103-41C7643667CE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreServicesApp", "AspNetCoreServicesApp\AspNetCoreServicesApp.csproj", "{04280E9F-53AE-48B8-B804-F8F0A5A47140}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F9748FB2-D3DE-4DC3-9103-41C7643667CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F9748FB2-D3DE-4DC3-9103-41C7643667CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F9748FB2-D3DE-4DC3-9103-41C7643667CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F9748FB2-D3DE-4DC3-9103-41C7643667CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04280E9F-53AE-48B8-B804-F8F0A5A47140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04280E9F-53AE-48B8-B804-F8F0A5A47140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04280E9F-53AE-48B8-B804-F8F0A5A47140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04280E9F-53AE-48B8-B804-F8F0A5A47140}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C222FF97-21DC-4B15-A893-D3641347E78B}
+		SolutionGuid = {2CE2333F-FDCA-4D42-9E16-C08CE42701D4}
 	EndGlobalSection
 EndGlobal

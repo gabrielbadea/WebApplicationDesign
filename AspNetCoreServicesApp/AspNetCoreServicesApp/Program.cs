@@ -1,21 +1,11 @@
-using AspNetCoreServicesApp.Models;
-using AspNetCoreServicesApp.Repositories;
-using AspNetCoreServicesApp.Repositories.Interfaces;
-using AspNetCoreServicesApp.Services;
 using AspNetCoreServicesApp.Services.Interfaces;
-using Microsoft.EntityFrameworkCore;
+using AspNetCoreServicesApp.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.Add(new ServiceDescriptor(typeof(ILog), new ConsoleLogger()));
-
-builder.Services.AddScoped<ILocationRepository, LocationRepository>();
-builder.Services.AddScoped<ILocationService, LocationService>();
-builder.Services.AddScoped<IRepositoryWrapper, RepositoryWrapper>();
-
-builder.Services.AddDbContext<LocationContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("LocationDb")));
 
 var app = builder.Build();
 
@@ -33,9 +23,10 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Location}/{action=Index}/{id?}");
+    pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.MapControllers();
 

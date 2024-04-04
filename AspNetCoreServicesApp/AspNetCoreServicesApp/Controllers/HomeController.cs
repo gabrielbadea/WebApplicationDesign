@@ -1,5 +1,5 @@
-﻿using AspNetCoreServicesApp.Models;
-using AspNetCoreServicesApp.Services;
+using AspNetCoreServicesApp.Models;
+using AspNetCoreServicesApp.Services.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
@@ -7,13 +7,16 @@ namespace AspNetCoreServicesApp.Controllers
 {
     public class HomeController : Controller
     {
-        public HomeController()
+        private ILog _log;
+
+        public HomeController(ILog log)
         {
+            _log = log;
         }
 
-        public IActionResult Index([FromServices] ILog log)
+        public IActionResult Index()
         {
-            log.Info("Executing /Home/Index");
+            _log.Info("Executing /Home/Index");
 
             return View();
         }
