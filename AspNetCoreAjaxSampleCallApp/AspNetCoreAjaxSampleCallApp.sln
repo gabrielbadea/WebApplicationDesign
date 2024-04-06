@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.5.33424.131
+VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreAjaxSampleCallApp", "AspNetCoreAjaxSampleCallApp\AspNetCoreAjaxSampleCallApp.csproj", "{5E22BF9F-462E-4B57-A02E-038A75B9528F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreAjaxSampleCallApp", "AspNetCoreAjaxSampleCallApp\AspNetCoreAjaxSampleCallApp.csproj", "{F4AE797D-C87B-430F-B7E7-541685C219C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5E22BF9F-462E-4B57-A02E-038A75B9528F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5E22BF9F-462E-4B57-A02E-038A75B9528F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5E22BF9F-462E-4B57-A02E-038A75B9528F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5E22BF9F-462E-4B57-A02E-038A75B9528F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4AE797D-C87B-430F-B7E7-541685C219C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4AE797D-C87B-430F-B7E7-541685C219C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4AE797D-C87B-430F-B7E7-541685C219C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4AE797D-C87B-430F-B7E7-541685C219C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D9E85202-A75A-4274-A8CB-22E853FF3A7C}
+		SolutionGuid = {6ADDDFE5-AFF8-4D87-8958-82054689A39A}
 	EndGlobalSection
 EndGlobal

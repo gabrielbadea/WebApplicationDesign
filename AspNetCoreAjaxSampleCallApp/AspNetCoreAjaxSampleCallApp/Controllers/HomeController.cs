@@ -1,4 +1,4 @@
-﻿using AspNetCoreAjaxSampleCallApp.Models;
+using AspNetCoreAjaxSampleCallApp.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 

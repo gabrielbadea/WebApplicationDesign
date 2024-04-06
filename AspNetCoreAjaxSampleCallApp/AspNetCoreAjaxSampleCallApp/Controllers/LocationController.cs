@@ -9,7 +9,6 @@ namespace AspNetCoreAjaxSampleCallApp.Controllers
         {
             new Location { IsNumber = true, LocationName = "Location 1" },
             new Location { IsNumber = true, LocationName = "Location 2" },
-            new Location { IsNumber = true, LocationName = "Location 3" },
             new Location { IsNumber = false, LocationName = "Location x" },
             new Location { IsNumber = false, LocationName = "Location y" }
         };
