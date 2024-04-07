@@ -1,4 +1,6 @@
-﻿namespace AspNetCoreSecurityApp.Models
+﻿using Microsoft.Extensions.Hosting;
+
+namespace AspNetCoreSecurityApp.Models
 {
     public class Blog
     {

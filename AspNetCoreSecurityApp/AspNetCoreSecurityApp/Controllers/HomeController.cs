@@ -1,10 +1,11 @@
-﻿using AspNetCoreSecurityApp.Models;
+using AspNetCoreSecurityApp.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
 namespace AspNetCoreSecurityApp.Controllers
 {
+    [Authorize(Roles = "Administrator,User")]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
@@ -19,7 +20,7 @@ namespace AspNetCoreSecurityApp.Controllers
             return View();
         }
 
-       
+        [Authorize(Roles = "Administrator")]
         public IActionResult Privacy()
         {
             return View();
