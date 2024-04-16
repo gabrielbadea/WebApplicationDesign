@@ -2,6 +2,8 @@
 
 #nullable disable
 
+#pragma warning disable CA1814 // Prefer jagged arrays over multidimensional
+
 namespace AspNetCoreServicesRepositoryApp.Migrations
 {
     /// <inheritdoc />
@@ -22,6 +24,17 @@ namespace AspNetCoreServicesRepositoryApp.Migrations
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Locations", x => x.LocationId);
+                });
+
+            migrationBuilder.InsertData(
+                table: "Locations",
+                columns: new[] { "LocationId", "IsNumber", "LocationName" },
+                values: new object[,]
+                {
+                    { 1, true, "Location 1" },
+                    { 2, true, "Location 2" },
+                    { 3, false, "Location A" },
+                    { 4, false, "Location B" }
                 });
         }
 

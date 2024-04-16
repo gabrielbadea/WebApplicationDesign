@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspNetCoreAjaxSampleCallApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9dd08aee526f6b216d3b2b21d26e0f1f58c17da3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcf6d0d32ad53b1a6ca4c86513d49c6d1dca88b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspNetCoreAjaxSampleCallApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspNetCoreAjaxSampleCallApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

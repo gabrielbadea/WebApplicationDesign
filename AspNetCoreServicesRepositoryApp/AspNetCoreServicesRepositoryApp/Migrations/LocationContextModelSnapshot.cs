@@ -38,6 +38,32 @@ namespace AspNetCoreServicesRepositoryApp.Migrations
                     b.HasKey("LocationId");
 
                     b.ToTable("Locations");
+
+                    b.HasData(
+                        new
+                        {
+                            LocationId = 1,
+                            IsNumber = true,
+                            LocationName = "Location 1"
+                        },
+                        new
+                        {
+                            LocationId = 2,
+                            IsNumber = true,
+                            LocationName = "Location 2"
+                        },
+                        new
+                        {
+                            LocationId = 3,
+                            IsNumber = false,
+                            LocationName = "Location A"
+                        },
+                        new
+                        {
+                            LocationId = 4,
+                            IsNumber = false,
+                            LocationName = "Location B"
+                        });
                 });
 #pragma warning restore 612, 618
         }

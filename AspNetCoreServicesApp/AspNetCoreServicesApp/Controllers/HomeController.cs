@@ -7,16 +7,16 @@ namespace AspNetCoreServicesApp.Controllers
 {
     public class HomeController : Controller
     {
-        private ILog _log;
+        //private ILog _log;
 
-        public HomeController(ILog log)
+        public HomeController()
         {
-            _log = log;
+            //_log = log;
         }
 
-        public IActionResult Index()
+        public IActionResult Index([FromServices] ILog log, int? id)
         {
-            _log.Info("Executing /Home/Index");
+            log.Info("Executing /Home/Index");
 
             return View();
         }
