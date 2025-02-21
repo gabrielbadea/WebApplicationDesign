@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspNetCoreSecurityApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b39644d1bc3b030aea9dc17317f7e3e886fb2dab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92a6e86db504643204bca0efcf7e4bd98a92932b")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspNetCoreSecurityApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspNetCoreSecurityApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
