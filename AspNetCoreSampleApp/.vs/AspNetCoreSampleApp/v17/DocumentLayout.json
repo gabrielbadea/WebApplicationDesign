@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B65C98B-D8C3-473F-808F-E3F3170C276C}|AspNetCoreSampleApp\\AspNetCoreSampleApp.csproj|f:\\githubrepositories\\webapplicationdesign\\aspnetcoresampleapp\\aspnetcoresampleapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B65C98B-D8C3-473F-808F-E3F3170C276C}|AspNetCoreSampleApp\\AspNetCoreSampleApp.csproj|solutionrelative:aspnetcoresampleapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B65C98B-D8C3-473F-808F-E3F3170C276C}|AspNetCoreSampleApp\\AspNetCoreSampleApp.csproj|f:\\githubrepositories\\webapplicationdesign\\aspnetcoresampleapp\\aspnetcoresampleapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B65C98B-D8C3-473F-808F-E3F3170C276C}|AspNetCoreSampleApp\\AspNetCoreSampleApp.csproj|solutionrelative:aspnetcoresampleapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B65C98B-D8C3-473F-808F-E3F3170C276C}|AspNetCoreSampleApp\\AspNetCoreSampleApp.csproj|f:\\githubrepositories\\webapplicationdesign\\aspnetcoresampleapp\\aspnetcoresampleapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B65C98B-D8C3-473F-808F-E3F3170C276C}|AspNetCoreSampleApp\\AspNetCoreSampleApp.csproj|solutionrelative:aspnetcoresampleapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B65C98B-D8C3-473F-808F-E3F3170C276C}|AspNetCoreSampleApp\\AspNetCoreSampleApp.csproj|f:\\githubrepositories\\webapplicationdesign\\aspnetcoresampleapp\\aspnetcoresampleapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B65C98B-D8C3-473F-808F-E3F3170C276C}|AspNetCoreSampleApp\\AspNetCoreSampleApp.csproj|solutionrelative:aspnetcoresampleapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B65C98B-D8C3-473F-808F-E3F3170C276C}|AspNetCoreSampleApp\\AspNetCoreSampleApp.csproj|f:\\githubrepositories\\webapplicationdesign\\aspnetcoresampleapp\\aspnetcoresampleapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B65C98B-D8C3-473F-808F-E3F3170C276C}|AspNetCoreSampleApp\\AspNetCoreSampleApp.csproj|solutionrelative:aspnetcoresampleapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B65C98B-D8C3-473F-808F-E3F3170C276C}|AspNetCoreSampleApp\\AspNetCoreSampleApp.csproj|f:\\githubrepositories\\webapplicationdesign\\aspnetcoresampleapp\\aspnetcoresampleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B65C98B-D8C3-473F-808F-E3F3170C276C}|AspNetCoreSampleApp\\AspNetCoreSampleApp.csproj|solutionrelative:aspnetcoresampleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AspNetCoreSampleApp\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B65C98B-D8C3-473F-808F-E3F3170C276C}|AspNetCoreSampleApp\\AspNetCoreSampleApp.csproj|f:\\githubrepositories\\webapplicationdesign\\aspnetcoresampleapp\\aspnetcoresampleapp\\aspnetcoresampleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B65C98B-D8C3-473F-808F-E3F3170C276C}|AspNetCoreSampleApp\\AspNetCoreSampleApp.csproj|solutionrelative:aspnetcoresampleapp\\aspnetcoresampleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreSampleApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "AspNetCoreSampleApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T08:31:53.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreSampleApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AspNetCoreSampleApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T08:31:52.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreSampleApp\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AspNetCoreSampleApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:31:46.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "AspNetCoreSampleApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "AspNetCoreSampleApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:31:30.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\Program.cs",
+              "RelativeDocumentMoniker": "AspNetCoreSampleApp\\Program.cs",
+              "ToolTip": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\Program.cs",
+              "RelativeToolTip": "AspNetCoreSampleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:26:03.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "libman.json",
+              "DocumentMoniker": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\libman.json",
+              "RelativeDocumentMoniker": "AspNetCoreSampleApp\\libman.json",
+              "ToolTip": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\libman.json",
+              "RelativeToolTip": "AspNetCoreSampleApp\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T08:20:55.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AspNetCoreSampleApp\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AspNetCoreSampleApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T08:19:52.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AspNetCoreSampleApp",
+              "DocumentMoniker": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\AspNetCoreSampleApp.csproj",
+              "RelativeDocumentMoniker": "AspNetCoreSampleApp\\AspNetCoreSampleApp.csproj",
+              "ToolTip": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\AspNetCoreSampleApp.csproj",
+              "RelativeToolTip": "AspNetCoreSampleApp\\AspNetCoreSampleApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-10T08:19:09.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
