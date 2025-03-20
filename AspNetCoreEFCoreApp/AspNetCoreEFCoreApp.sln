@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.8.34309.116
+VisualStudioVersion = 17.13.35825.156 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreEFCoreApp", "AspNetCoreEFCoreApp\AspNetCoreEFCoreApp.csproj", "{D3CE5E40-458D-4F7B-9FE3-72A92A4D6B34}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreEFCoreApp", "AspNetCoreEFCoreApp\AspNetCoreEFCoreApp.csproj", "{C02C9261-49C0-4D0E-ABF3-47D19FFD2572}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D3CE5E40-458D-4F7B-9FE3-72A92A4D6B34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D3CE5E40-458D-4F7B-9FE3-72A92A4D6B34}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D3CE5E40-458D-4F7B-9FE3-72A92A4D6B34}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D3CE5E40-458D-4F7B-9FE3-72A92A4D6B34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C02C9261-49C0-4D0E-ABF3-47D19FFD2572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C02C9261-49C0-4D0E-ABF3-47D19FFD2572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C02C9261-49C0-4D0E-ABF3-47D19FFD2572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C02C9261-49C0-4D0E-ABF3-47D19FFD2572}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {171CFDEC-AB2C-4642-91C4-942F192129E9}
+		SolutionGuid = {0E7408EC-BF7D-4CE1-AD9F-865AE6D88213}
 	EndGlobalSection
 EndGlobal

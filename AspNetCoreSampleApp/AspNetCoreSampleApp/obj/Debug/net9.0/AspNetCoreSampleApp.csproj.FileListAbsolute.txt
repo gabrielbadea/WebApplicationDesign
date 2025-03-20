@@ -97,3 +97,6 @@ F:\GitHubRepositories\WebApplicationDesign\AspNetCoreSampleApp\AspNetCoreSampleA
 F:\GitHubRepositories\WebApplicationDesign\AspNetCoreSampleApp\AspNetCoreSampleApp\obj\Debug\net9.0\AspNetCoreSampleApp.pdb
 F:\GitHubRepositories\WebApplicationDesign\AspNetCoreSampleApp\AspNetCoreSampleApp\obj\Debug\net9.0\AspNetCoreSampleApp.genruntimeconfig.cache
 F:\GitHubRepositories\WebApplicationDesign\AspNetCoreSampleApp\AspNetCoreSampleApp\obj\Debug\net9.0\ref\AspNetCoreSampleApp.dll
+F:\GitHubRepositories\WebApplicationDesign\AspNetCoreSampleApp\AspNetCoreSampleApp\bin\Debug\net9.0\libman.json
+F:\GitHubRepositories\WebApplicationDesign\AspNetCoreSampleApp\AspNetCoreSampleApp\obj\Debug\net9.0\compressed\wgluqe4kip-o1o13a6vjx.gz
+F:\GitHubRepositories\WebApplicationDesign\AspNetCoreSampleApp\AspNetCoreSampleApp\obj\Debug\net9.0\compressed\13m698x2if-ttgo8qnofa.gz

@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreEFCoreApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C02C9261-49C0-4D0E-ABF3-47D19FFD2572}|AspNetCoreEFCoreApp\\AspNetCoreEFCoreApp.csproj|f:\\githubrepositories\\webapplicationdesign\\aspnetcoreefcoreapp\\aspnetcoreefcoreapp\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C02C9261-49C0-4D0E-ABF3-47D19FFD2572}|AspNetCoreEFCoreApp\\AspNetCoreEFCoreApp.csproj|solutionrelative:aspnetcoreefcoreapp\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C02C9261-49C0-4D0E-ABF3-47D19FFD2572}|AspNetCoreEFCoreApp\\AspNetCoreEFCoreApp.csproj|f:\\githubrepositories\\webapplicationdesign\\aspnetcoreefcoreapp\\aspnetcoreefcoreapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C02C9261-49C0-4D0E-ABF3-47D19FFD2572}|AspNetCoreEFCoreApp\\AspNetCoreEFCoreApp.csproj|solutionrelative:aspnetcoreefcoreapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreEFCoreApp\\AspNetCoreEFCoreApp\\Migrations\\20250320164723_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AspNetCoreEFCoreApp\\Migrations\\20250320164723_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C02C9261-49C0-4D0E-ABF3-47D19FFD2572}|AspNetCoreEFCoreApp\\AspNetCoreEFCoreApp.csproj|f:\\githubrepositories\\webapplicationdesign\\aspnetcoreefcoreapp\\aspnetcoreefcoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C02C9261-49C0-4D0E-ABF3-47D19FFD2572}|AspNetCoreEFCoreApp\\AspNetCoreEFCoreApp.csproj|solutionrelative:aspnetcoreefcoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C02C9261-49C0-4D0E-ABF3-47D19FFD2572}|AspNetCoreEFCoreApp\\AspNetCoreEFCoreApp.csproj|f:\\githubrepositories\\webapplicationdesign\\aspnetcoreefcoreapp\\aspnetcoreefcoreapp\\models\\bloggingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C02C9261-49C0-4D0E-ABF3-47D19FFD2572}|AspNetCoreEFCoreApp\\AspNetCoreEFCoreApp.csproj|solutionrelative:aspnetcoreefcoreapp\\models\\bloggingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C02C9261-49C0-4D0E-ABF3-47D19FFD2572}|AspNetCoreEFCoreApp\\AspNetCoreEFCoreApp.csproj|f:\\githubrepositories\\webapplicationdesign\\aspnetcoreefcoreapp\\aspnetcoreefcoreapp\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C02C9261-49C0-4D0E-ABF3-47D19FFD2572}|AspNetCoreEFCoreApp\\AspNetCoreEFCoreApp.csproj|solutionrelative:aspnetcoreefcoreapp\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C02C9261-49C0-4D0E-ABF3-47D19FFD2572}|AspNetCoreEFCoreApp\\AspNetCoreEFCoreApp.csproj|f:\\githubrepositories\\webapplicationdesign\\aspnetcoreefcoreapp\\aspnetcoreefcoreapp\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C02C9261-49C0-4D0E-ABF3-47D19FFD2572}|AspNetCoreEFCoreApp\\AspNetCoreEFCoreApp.csproj|solutionrelative:aspnetcoreefcoreapp\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogsController.cs",
+              "DocumentMoniker": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreEFCoreApp\\AspNetCoreEFCoreApp\\Controllers\\BlogsController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreEFCoreApp\\Controllers\\BlogsController.cs",
+              "ToolTip": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreEFCoreApp\\AspNetCoreEFCoreApp\\Controllers\\BlogsController.cs",
+              "RelativeToolTip": "AspNetCoreEFCoreApp\\Controllers\\BlogsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:50:58.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250320164723_InitialCreate.cs",
+              "DocumentMoniker": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreEFCoreApp\\AspNetCoreEFCoreApp\\Migrations\\20250320164723_InitialCreate.cs",
+              "RelativeDocumentMoniker": "AspNetCoreEFCoreApp\\Migrations\\20250320164723_InitialCreate.cs",
+              "ToolTip": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreEFCoreApp\\AspNetCoreEFCoreApp\\Migrations\\20250320164723_InitialCreate.cs",
+              "RelativeToolTip": "AspNetCoreEFCoreApp\\Migrations\\20250320164723_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:47:23.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreEFCoreApp\\AspNetCoreEFCoreApp\\Program.cs",
+              "RelativeDocumentMoniker": "AspNetCoreEFCoreApp\\Program.cs",
+              "ToolTip": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreEFCoreApp\\AspNetCoreEFCoreApp\\Program.cs",
+              "RelativeToolTip": "AspNetCoreEFCoreApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:46:09.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreEFCoreApp\\AspNetCoreEFCoreApp\\appsettings.json",
+              "RelativeDocumentMoniker": "AspNetCoreEFCoreApp\\appsettings.json",
+              "ToolTip": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreEFCoreApp\\AspNetCoreEFCoreApp\\appsettings.json",
+              "RelativeToolTip": "AspNetCoreEFCoreApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-20T16:42:19.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BloggingContext.cs",
+              "DocumentMoniker": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreEFCoreApp\\AspNetCoreEFCoreApp\\Models\\BloggingContext.cs",
+              "RelativeDocumentMoniker": "AspNetCoreEFCoreApp\\Models\\BloggingContext.cs",
+              "ToolTip": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreEFCoreApp\\AspNetCoreEFCoreApp\\Models\\BloggingContext.cs",
+              "RelativeToolTip": "AspNetCoreEFCoreApp\\Models\\BloggingContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:39:04.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Post.cs",
+              "DocumentMoniker": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreEFCoreApp\\AspNetCoreEFCoreApp\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "AspNetCoreEFCoreApp\\Models\\Post.cs",
+              "ToolTip": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreEFCoreApp\\AspNetCoreEFCoreApp\\Models\\Post.cs",
+              "RelativeToolTip": "AspNetCoreEFCoreApp\\Models\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:38:10.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreEFCoreApp\\AspNetCoreEFCoreApp\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "AspNetCoreEFCoreApp\\Models\\Blog.cs",
+              "ToolTip": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreEFCoreApp\\AspNetCoreEFCoreApp\\Models\\Blog.cs",
+              "RelativeToolTip": "AspNetCoreEFCoreApp\\Models\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:37:26.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

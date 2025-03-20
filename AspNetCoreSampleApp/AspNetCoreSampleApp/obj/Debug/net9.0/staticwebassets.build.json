@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Fmn05+W5Mp747vSyzWCoI3TRlJ1xIN95Y6IXuQBSHsc=",
+  "Hash": "FcF8tLNEDnICsi84ok0oz//T1s5/U9HoYJbsCXUdHP4=",
   "Source": "AspNetCoreSampleApp",
   "BasePath": "_content/AspNetCoreSampleApp",
   "Mode": "Default",
@@ -78,6 +78,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Identity": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\obj\\Debug\\net9.0\\compressed\\13m698x2if-ttgo8qnofa.gz",
+      "SourceId": "AspNetCoreSampleApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/AspNetCoreSampleApp",
+      "RelativePath": "lib/jquery.min#[.{fingerprint=ttgo8qnofa}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\wwwroot\\lib\\jquery.min.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "sdwt97mj8r",
+      "Integrity": "0HH7P7Mtrs+2sBMSFXD8DJw0oV4iDB5wkeRFpSi113A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\wwwroot\\lib\\jquery.min.map"
     },
     {
       "Identity": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\obj\\Debug\\net9.0\\compressed\\143w8ukanw-s35ty4nyc5.gz",
@@ -1191,6 +1212,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Identity": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\obj\\Debug\\net9.0\\compressed\\wgluqe4kip-o1o13a6vjx.gz",
+      "SourceId": "AspNetCoreSampleApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/AspNetCoreSampleApp",
+      "RelativePath": "lib/jquery.min#[.{fingerprint=o1o13a6vjx}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\wwwroot\\lib\\jquery.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "9lbv9l0z68",
+      "Integrity": "bSlV8nIWgnEsf0ljiCRK0xw364UXDcqZZilq1CQ+At0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\wwwroot\\lib\\jquery.min.js"
     },
     {
       "Identity": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\obj\\Debug\\net9.0\\compressed\\whzc9i84e7-vr1egmr9el.gz",
@@ -2409,6 +2451,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
+    },
+    {
+      "Identity": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\wwwroot\\lib\\jquery.min.js",
+      "SourceId": "AspNetCoreSampleApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSampleApp",
+      "RelativePath": "lib/jquery.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o1o13a6vjx",
+      "Integrity": "/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery.min.js"
+    },
+    {
+      "Identity": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\wwwroot\\lib\\jquery.min.map",
+      "SourceId": "AspNetCoreSampleApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSampleApp",
+      "RelativePath": "lib/jquery.min#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ttgo8qnofa",
+      "Integrity": "z3TVHGLSmRiZiRMOu0I7MEU1Mv3ImI2OK3GxuRZagLg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery.min.map"
     },
     {
       "Identity": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
@@ -17408,6 +17492,602 @@
         {
           "Name": "integrity",
           "Value": "sha256-ZH6pA6BSx6fuHZvdaKph1DwUJ+VSYilIiEQu8ilnvqk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery.min.js",
+      "AssetFile": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\obj\\Debug\\net9.0\\compressed\\wgluqe4kip-o1o13a6vjx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032879595"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30413"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bSlV8nIWgnEsf0ljiCRK0xw364UXDcqZZilq1CQ+At0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 10:35:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery.min.js",
+      "AssetFile": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\wwwroot\\lib\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 10:35:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery.min.js.gz",
+      "AssetFile": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\obj\\Debug\\net9.0\\compressed\\wgluqe4kip-o1o13a6vjx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bSlV8nIWgnEsf0ljiCRK0xw364UXDcqZZilq1CQ+At0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 10:35:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bSlV8nIWgnEsf0ljiCRK0xw364UXDcqZZilq1CQ+At0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery.min.map",
+      "AssetFile": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\obj\\Debug\\net9.0\\compressed\\13m698x2if-ttgo8qnofa.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000018542555"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53929"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0HH7P7Mtrs+2sBMSFXD8DJw0oV4iDB5wkeRFpSi113A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 10:35:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"z3TVHGLSmRiZiRMOu0I7MEU1Mv3ImI2OK3GxuRZagLg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z3TVHGLSmRiZiRMOu0I7MEU1Mv3ImI2OK3GxuRZagLg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery.min.map",
+      "AssetFile": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\wwwroot\\lib\\jquery.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z3TVHGLSmRiZiRMOu0I7MEU1Mv3ImI2OK3GxuRZagLg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 10:35:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z3TVHGLSmRiZiRMOu0I7MEU1Mv3ImI2OK3GxuRZagLg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery.min.map.gz",
+      "AssetFile": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\obj\\Debug\\net9.0\\compressed\\13m698x2if-ttgo8qnofa.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53929"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0HH7P7Mtrs+2sBMSFXD8DJw0oV4iDB5wkeRFpSi113A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 10:35:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0HH7P7Mtrs+2sBMSFXD8DJw0oV4iDB5wkeRFpSi113A="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery.min.o1o13a6vjx.js",
+      "AssetFile": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\obj\\Debug\\net9.0\\compressed\\wgluqe4kip-o1o13a6vjx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032879595"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30413"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bSlV8nIWgnEsf0ljiCRK0xw364UXDcqZZilq1CQ+At0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 10:35:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o1o13a6vjx"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery.min.o1o13a6vjx.js",
+      "AssetFile": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\wwwroot\\lib\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 10:35:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o1o13a6vjx"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery.min.o1o13a6vjx.js.gz",
+      "AssetFile": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\obj\\Debug\\net9.0\\compressed\\wgluqe4kip-o1o13a6vjx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bSlV8nIWgnEsf0ljiCRK0xw364UXDcqZZilq1CQ+At0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 10:35:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o1o13a6vjx"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery.min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bSlV8nIWgnEsf0ljiCRK0xw364UXDcqZZilq1CQ+At0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery.min.ttgo8qnofa.map",
+      "AssetFile": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\obj\\Debug\\net9.0\\compressed\\13m698x2if-ttgo8qnofa.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000018542555"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53929"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0HH7P7Mtrs+2sBMSFXD8DJw0oV4iDB5wkeRFpSi113A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 10:35:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"z3TVHGLSmRiZiRMOu0I7MEU1Mv3ImI2OK3GxuRZagLg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ttgo8qnofa"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery.min.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z3TVHGLSmRiZiRMOu0I7MEU1Mv3ImI2OK3GxuRZagLg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery.min.ttgo8qnofa.map",
+      "AssetFile": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\wwwroot\\lib\\jquery.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z3TVHGLSmRiZiRMOu0I7MEU1Mv3ImI2OK3GxuRZagLg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 10:35:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ttgo8qnofa"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery.min.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z3TVHGLSmRiZiRMOu0I7MEU1Mv3ImI2OK3GxuRZagLg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery.min.ttgo8qnofa.map.gz",
+      "AssetFile": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\obj\\Debug\\net9.0\\compressed\\13m698x2if-ttgo8qnofa.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53929"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0HH7P7Mtrs+2sBMSFXD8DJw0oV4iDB5wkeRFpSi113A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 10:35:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ttgo8qnofa"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery.min.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0HH7P7Mtrs+2sBMSFXD8DJw0oV4iDB5wkeRFpSi113A="
         }
       ]
     },

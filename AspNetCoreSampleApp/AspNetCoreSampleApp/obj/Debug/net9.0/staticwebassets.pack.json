@@ -229,6 +229,14 @@
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
+      "Id": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\wwwroot\\lib\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\wwwroot\\lib\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery.min.map"
+    },
+    {
       "Id": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSampleApp\\AspNetCoreSampleApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },

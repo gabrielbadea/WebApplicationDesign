@@ -1,6 +1,7 @@
 F:\GitHubRepositories\WebApplicationDesign\AspNetCoreSampleApp\AspNetCoreSampleApp\wwwroot\lib\jquery-validation\LICENSE.md
 F:\GitHubRepositories\WebApplicationDesign\AspNetCoreSampleApp\AspNetCoreSampleApp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
 F:\GitHubRepositories\WebApplicationDesign\AspNetCoreSampleApp\AspNetCoreSampleApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+F:\GitHubRepositories\WebApplicationDesign\AspNetCoreSampleApp\AspNetCoreSampleApp\wwwroot\lib\jquery.min.map
 F:\GitHubRepositories\WebApplicationDesign\AspNetCoreSampleApp\AspNetCoreSampleApp\wwwroot\lib\bootstrap\dist\css\bootstrap.css
 F:\GitHubRepositories\WebApplicationDesign\AspNetCoreSampleApp\AspNetCoreSampleApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
 F:\GitHubRepositories\WebApplicationDesign\AspNetCoreSampleApp\AspNetCoreSampleApp\wwwroot\lib\jquery\dist\jquery.js
@@ -52,6 +53,7 @@ F:\GitHubRepositories\WebApplicationDesign\AspNetCoreSampleApp\AspNetCoreSampleA
 F:\GitHubRepositories\WebApplicationDesign\AspNetCoreSampleApp\AspNetCoreSampleApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 F:\GitHubRepositories\WebApplicationDesign\AspNetCoreSampleApp\AspNetCoreSampleApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
 F:\GitHubRepositories\WebApplicationDesign\AspNetCoreSampleApp\AspNetCoreSampleApp\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+F:\GitHubRepositories\WebApplicationDesign\AspNetCoreSampleApp\AspNetCoreSampleApp\wwwroot\lib\jquery.min.js
 F:\GitHubRepositories\WebApplicationDesign\AspNetCoreSampleApp\AspNetCoreSampleApp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
 F:\GitHubRepositories\WebApplicationDesign\AspNetCoreSampleApp\AspNetCoreSampleApp\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
 F:\GitHubRepositories\WebApplicationDesign\AspNetCoreSampleApp\AspNetCoreSampleApp\wwwroot\lib\jquery\dist\jquery.min.js
@@ -108,6 +110,8 @@ wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
 wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery.min.js
+wwwroot\lib\jquery.min.map
 wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
