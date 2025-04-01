@@ -8,5 +8,9 @@
 
         public int BlogId { get; set; }
         public Blog? Blog { get; set; }
+
+        public ICollection<Comment>? Comments { get; set; }
+
+        public ICollection<PostAuthor>? PostAuthors { get; set; }
     }
 }

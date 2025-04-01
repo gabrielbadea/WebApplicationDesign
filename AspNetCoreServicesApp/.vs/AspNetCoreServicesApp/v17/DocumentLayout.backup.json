@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreServicesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E441357C-9A7E-4090-8FC4-51D7F2613EC8}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|f:\\githubrepositories\\webapplicationdesign\\aspnetcoreservicesapp\\aspnetcoreservicesapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E441357C-9A7E-4090-8FC4-51D7F2613EC8}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|solutionrelative:aspnetcoreservicesapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E441357C-9A7E-4090-8FC4-51D7F2613EC8}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|f:\\githubrepositories\\webapplicationdesign\\aspnetcoreservicesapp\\aspnetcoreservicesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E441357C-9A7E-4090-8FC4-51D7F2613EC8}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|solutionrelative:aspnetcoreservicesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E441357C-9A7E-4090-8FC4-51D7F2613EC8}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|f:\\githubrepositories\\webapplicationdesign\\aspnetcoreservicesapp\\aspnetcoreservicesapp\\services\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E441357C-9A7E-4090-8FC4-51D7F2613EC8}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|solutionrelative:aspnetcoreservicesapp\\services\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E441357C-9A7E-4090-8FC4-51D7F2613EC8}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|f:\\githubrepositories\\webapplicationdesign\\aspnetcoreservicesapp\\aspnetcoreservicesapp\\services\\interfaces\\ilog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E441357C-9A7E-4090-8FC4-51D7F2613EC8}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|solutionrelative:aspnetcoreservicesapp\\services\\interfaces\\ilog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E441357C-9A7E-4090-8FC4-51D7F2613EC8}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|f:\\githubrepositories\\webapplicationdesign\\aspnetcoreservicesapp\\aspnetcoreservicesapp\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E441357C-9A7E-4090-8FC4-51D7F2613EC8}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|solutionrelative:aspnetcoreservicesapp\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E441357C-9A7E-4090-8FC4-51D7F2613EC8}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|f:\\githubrepositories\\webapplicationdesign\\aspnetcoreservicesapp\\aspnetcoreservicesapp\\views\\test\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E441357C-9A7E-4090-8FC4-51D7F2613EC8}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|solutionrelative:aspnetcoreservicesapp\\views\\test\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreServicesApp\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AspNetCoreServicesApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:23:58.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Program.cs",
+              "RelativeDocumentMoniker": "AspNetCoreServicesApp\\Program.cs",
+              "ToolTip": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Program.cs",
+              "RelativeToolTip": "AspNetCoreServicesApp\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:18:42.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleLogger.cs",
+              "DocumentMoniker": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Services\\ConsoleLogger.cs",
+              "RelativeDocumentMoniker": "AspNetCoreServicesApp\\Services\\ConsoleLogger.cs",
+              "ToolTip": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Services\\ConsoleLogger.cs",
+              "RelativeToolTip": "AspNetCoreServicesApp\\Services\\ConsoleLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:17:52.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILog.cs",
+              "DocumentMoniker": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Services\\Interfaces\\ILog.cs",
+              "RelativeDocumentMoniker": "AspNetCoreServicesApp\\Services\\Interfaces\\ILog.cs",
+              "ToolTip": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Services\\Interfaces\\ILog.cs",
+              "RelativeToolTip": "AspNetCoreServicesApp\\Services\\Interfaces\\ILog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:17:22.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Views\\Test\\About.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreServicesApp\\Views\\Test\\About.cshtml",
+              "ToolTip": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Views\\Test\\About.cshtml",
+              "RelativeToolTip": "AspNetCoreServicesApp\\Views\\Test\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T15:16:12.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreServicesApp\\Controllers\\TestController.cs",
+              "ToolTip": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Controllers\\TestController.cs",
+              "RelativeToolTip": "AspNetCoreServicesApp\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:15:17.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
