@@ -1,4 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using System.Collections.Generic;
+using System.Reflection.Emit;
 
 namespace AspNetCoreServicesRepositoryApp.Models
 {
@@ -7,7 +9,6 @@ namespace AspNetCoreServicesRepositoryApp.Models
         public LocationContext(DbContextOptions<LocationContext> options)
             : base(options)
         { }
-
         public DbSet<Location>? Locations { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

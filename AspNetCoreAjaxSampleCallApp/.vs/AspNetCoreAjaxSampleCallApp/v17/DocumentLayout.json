@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreAjaxSampleCallApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89070970-B889-4D28-9F9F-4CEF26321DB1}|AspNetCoreAjaxSampleCallApp\\AspNetCoreAjaxSampleCallApp.csproj|f:\\githubrepositories\\webapplicationdesign\\aspnetcoreajaxsamplecallapp\\aspnetcoreajaxsamplecallapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89070970-B889-4D28-9F9F-4CEF26321DB1}|AspNetCoreAjaxSampleCallApp\\AspNetCoreAjaxSampleCallApp.csproj|solutionrelative:aspnetcoreajaxsamplecallapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89070970-B889-4D28-9F9F-4CEF26321DB1}|AspNetCoreAjaxSampleCallApp\\AspNetCoreAjaxSampleCallApp.csproj|f:\\githubrepositories\\webapplicationdesign\\aspnetcoreajaxsamplecallapp\\aspnetcoreajaxsamplecallapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89070970-B889-4D28-9F9F-4CEF26321DB1}|AspNetCoreAjaxSampleCallApp\\AspNetCoreAjaxSampleCallApp.csproj|solutionrelative:aspnetcoreajaxsamplecallapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89070970-B889-4D28-9F9F-4CEF26321DB1}|AspNetCoreAjaxSampleCallApp\\AspNetCoreAjaxSampleCallApp.csproj|f:\\githubrepositories\\webapplicationdesign\\aspnetcoreajaxsamplecallapp\\aspnetcoreajaxsamplecallapp\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89070970-B889-4D28-9F9F-4CEF26321DB1}|AspNetCoreAjaxSampleCallApp\\AspNetCoreAjaxSampleCallApp.csproj|solutionrelative:aspnetcoreajaxsamplecallapp\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89070970-B889-4D28-9F9F-4CEF26321DB1}|AspNetCoreAjaxSampleCallApp\\AspNetCoreAjaxSampleCallApp.csproj|f:\\githubrepositories\\webapplicationdesign\\aspnetcoreajaxsamplecallapp\\aspnetcoreajaxsamplecallapp\\views\\location\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89070970-B889-4D28-9F9F-4CEF26321DB1}|AspNetCoreAjaxSampleCallApp\\AspNetCoreAjaxSampleCallApp.csproj|solutionrelative:aspnetcoreajaxsamplecallapp\\views\\location\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89070970-B889-4D28-9F9F-4CEF26321DB1}|AspNetCoreAjaxSampleCallApp\\AspNetCoreAjaxSampleCallApp.csproj|f:\\githubrepositories\\webapplicationdesign\\aspnetcoreajaxsamplecallapp\\aspnetcoreajaxsamplecallapp\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89070970-B889-4D28-9F9F-4CEF26321DB1}|AspNetCoreAjaxSampleCallApp\\AspNetCoreAjaxSampleCallApp.csproj|solutionrelative:aspnetcoreajaxsamplecallapp\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89070970-B889-4D28-9F9F-4CEF26321DB1}|AspNetCoreAjaxSampleCallApp\\AspNetCoreAjaxSampleCallApp.csproj|f:\\githubrepositories\\webapplicationdesign\\aspnetcoreajaxsamplecallapp\\aspnetcoreajaxsamplecallapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89070970-B889-4D28-9F9F-4CEF26321DB1}|AspNetCoreAjaxSampleCallApp\\AspNetCoreAjaxSampleCallApp.csproj|solutionrelative:aspnetcoreajaxsamplecallapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreAjaxSampleCallApp\\AspNetCoreAjaxSampleCallApp\\Program.cs",
+              "RelativeDocumentMoniker": "AspNetCoreAjaxSampleCallApp\\Program.cs",
+              "ToolTip": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreAjaxSampleCallApp\\AspNetCoreAjaxSampleCallApp\\Program.cs",
+              "RelativeToolTip": "AspNetCoreAjaxSampleCallApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:54:43.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreAjaxSampleCallApp\\AspNetCoreAjaxSampleCallApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreAjaxSampleCallApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreAjaxSampleCallApp\\AspNetCoreAjaxSampleCallApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AspNetCoreAjaxSampleCallApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T13:54:21.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreAjaxSampleCallApp\\AspNetCoreAjaxSampleCallApp\\Views\\Location\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreAjaxSampleCallApp\\Views\\Location\\Index.cshtml",
+              "ToolTip": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreAjaxSampleCallApp\\AspNetCoreAjaxSampleCallApp\\Views\\Location\\Index.cshtml",
+              "RelativeToolTip": "AspNetCoreAjaxSampleCallApp\\Views\\Location\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwDkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T13:53:18.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Location.cs",
+              "DocumentMoniker": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreAjaxSampleCallApp\\AspNetCoreAjaxSampleCallApp\\Models\\Location.cs",
+              "RelativeDocumentMoniker": "AspNetCoreAjaxSampleCallApp\\Models\\Location.cs",
+              "ToolTip": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreAjaxSampleCallApp\\AspNetCoreAjaxSampleCallApp\\Models\\Location.cs",
+              "RelativeToolTip": "AspNetCoreAjaxSampleCallApp\\Models\\Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:52:20.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocationController.cs",
+              "DocumentMoniker": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreAjaxSampleCallApp\\AspNetCoreAjaxSampleCallApp\\Controllers\\LocationController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreAjaxSampleCallApp\\Controllers\\LocationController.cs",
+              "ToolTip": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreAjaxSampleCallApp\\AspNetCoreAjaxSampleCallApp\\Controllers\\LocationController.cs",
+              "RelativeToolTip": "AspNetCoreAjaxSampleCallApp\\Controllers\\LocationController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA0wBkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:51:35.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreAjaxSampleCallApp\\AspNetCoreAjaxSampleCallApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreAjaxSampleCallApp\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreAjaxSampleCallApp\\AspNetCoreAjaxSampleCallApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AspNetCoreAjaxSampleCallApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:50:33.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

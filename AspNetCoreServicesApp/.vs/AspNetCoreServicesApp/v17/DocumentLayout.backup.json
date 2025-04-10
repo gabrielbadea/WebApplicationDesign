@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{E441357C-9A7E-4090-8FC4-51D7F2613EC8}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|solutionrelative:aspnetcoreservicesapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E441357C-9A7E-4090-8FC4-51D7F2613EC8}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|f:\\githubrepositories\\webapplicationdesign\\aspnetcoreservicesapp\\aspnetcoreservicesapp\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E441357C-9A7E-4090-8FC4-51D7F2613EC8}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|solutionrelative:aspnetcoreservicesapp\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E441357C-9A7E-4090-8FC4-51D7F2613EC8}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|f:\\githubrepositories\\webapplicationdesign\\aspnetcoreservicesapp\\aspnetcoreservicesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E441357C-9A7E-4090-8FC4-51D7F2613EC8}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|solutionrelative:aspnetcoreservicesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,8 +23,24 @@
       "RelativeMoniker": "D:0:0:{E441357C-9A7E-4090-8FC4-51D7F2613EC8}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|solutionrelative:aspnetcoreservicesapp\\services\\interfaces\\ilog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E441357C-9A7E-4090-8FC4-51D7F2613EC8}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|f:\\githubrepositories\\webapplicationdesign\\aspnetcoreservicesapp\\aspnetcoreservicesapp\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E441357C-9A7E-4090-8FC4-51D7F2613EC8}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|solutionrelative:aspnetcoreservicesapp\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E441357C-9A7E-4090-8FC4-51D7F2613EC8}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|f:\\githubrepositories\\webapplicationdesign\\aspnetcoreservicesapp\\aspnetcoreservicesapp\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E441357C-9A7E-4090-8FC4-51D7F2613EC8}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|solutionrelative:aspnetcoreservicesapp\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E441357C-9A7E-4090-8FC4-51D7F2613EC8}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|f:\\githubrepositories\\webapplicationdesign\\aspnetcoreservicesapp\\aspnetcoreservicesapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E441357C-9A7E-4090-8FC4-51D7F2613EC8}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|solutionrelative:aspnetcoreservicesapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E441357C-9A7E-4090-8FC4-51D7F2613EC8}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|f:\\githubrepositories\\webapplicationdesign\\aspnetcoreservicesapp\\aspnetcoreservicesapp\\views\\calculator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E441357C-9A7E-4090-8FC4-51D7F2613EC8}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|solutionrelative:aspnetcoreservicesapp\\views\\calculator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E441357C-9A7E-4090-8FC4-51D7F2613EC8}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|f:\\githubrepositories\\webapplicationdesign\\aspnetcoreservicesapp\\aspnetcoreservicesapp\\services\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E441357C-9A7E-4090-8FC4-51D7F2613EC8}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|solutionrelative:aspnetcoreservicesapp\\services\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E441357C-9A7E-4090-8FC4-51D7F2613EC8}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|f:\\githubrepositories\\webapplicationdesign\\aspnetcoreservicesapp\\aspnetcoreservicesapp\\services\\interfaces\\icalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E441357C-9A7E-4090-8FC4-51D7F2613EC8}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|solutionrelative:aspnetcoreservicesapp\\services\\interfaces\\icalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E441357C-9A7E-4090-8FC4-51D7F2613EC8}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|f:\\githubrepositories\\webapplicationdesign\\aspnetcoreservicesapp\\aspnetcoreservicesapp\\views\\test\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -44,53 +64,65 @@
               "RelativeDocumentMoniker": "AspNetCoreServicesApp\\Controllers\\HomeController.cs",
               "ToolTip": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Controllers\\HomeController.cs",
               "RelativeToolTip": "AspNetCoreServicesApp\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-01T15:23:58.992Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Program.cs",
               "RelativeDocumentMoniker": "AspNetCoreServicesApp\\Program.cs",
               "ToolTip": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Program.cs",
               "RelativeToolTip": "AspNetCoreServicesApp\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAcAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-01T15:18:42.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
+              "Title": "ICalculatorService.cs",
+              "DocumentMoniker": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Services\\Interfaces\\ICalculatorService.cs",
+              "RelativeDocumentMoniker": "AspNetCoreServicesApp\\Services\\Interfaces\\ICalculatorService.cs",
+              "ToolTip": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Services\\Interfaces\\ICalculatorService.cs",
+              "RelativeToolTip": "AspNetCoreServicesApp\\Services\\Interfaces\\ICalculatorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T16:31:24.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ConsoleLogger.cs",
               "DocumentMoniker": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Services\\ConsoleLogger.cs",
               "RelativeDocumentMoniker": "AspNetCoreServicesApp\\Services\\ConsoleLogger.cs",
               "ToolTip": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Services\\ConsoleLogger.cs",
               "RelativeToolTip": "AspNetCoreServicesApp\\Services\\ConsoleLogger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-01T15:17:52.305Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ILog.cs",
               "DocumentMoniker": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Services\\Interfaces\\ILog.cs",
               "RelativeDocumentMoniker": "AspNetCoreServicesApp\\Services\\Interfaces\\ILog.cs",
               "ToolTip": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Services\\Interfaces\\ILog.cs",
               "RelativeToolTip": "AspNetCoreServicesApp\\Services\\Interfaces\\ILog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-01T15:17:22.381Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "About.cshtml",
               "DocumentMoniker": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Views\\Test\\About.cshtml",
               "RelativeDocumentMoniker": "AspNetCoreServicesApp\\Views\\Test\\About.cshtml",
@@ -98,21 +130,69 @@
               "RelativeToolTip": "AspNetCoreServicesApp\\Views\\Test\\About.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-01T15:16:12.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T15:16:12.977Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "TestController.cs",
               "DocumentMoniker": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Controllers\\TestController.cs",
               "RelativeDocumentMoniker": "AspNetCoreServicesApp\\Controllers\\TestController.cs",
               "ToolTip": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Controllers\\TestController.cs",
               "RelativeToolTip": "AspNetCoreServicesApp\\Controllers\\TestController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-01T15:15:17.465Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\appsettings.json",
+              "RelativeDocumentMoniker": "AspNetCoreServicesApp\\appsettings.json",
+              "ToolTip": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\appsettings.json",
+              "RelativeToolTip": "AspNetCoreServicesApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-07T09:37:37.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreServicesApp\\Controllers\\CalculatorController.cs",
+              "ToolTip": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "AspNetCoreServicesApp\\Controllers\\CalculatorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T16:36:07.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CalculatorService.cs",
+              "DocumentMoniker": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Services\\CalculatorService.cs",
+              "RelativeDocumentMoniker": "AspNetCoreServicesApp\\Services\\CalculatorService.cs",
+              "ToolTip": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Services\\CalculatorService.cs",
+              "RelativeToolTip": "AspNetCoreServicesApp\\Services\\CalculatorService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T16:32:35.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Views\\Calculator\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreServicesApp\\Views\\Calculator\\Index.cshtml",
+              "ToolTip": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Views\\Calculator\\Index.cshtml",
+              "RelativeToolTip": "AspNetCoreServicesApp\\Views\\Calculator\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T16:36:26.877Z"
             }
           ]
         }

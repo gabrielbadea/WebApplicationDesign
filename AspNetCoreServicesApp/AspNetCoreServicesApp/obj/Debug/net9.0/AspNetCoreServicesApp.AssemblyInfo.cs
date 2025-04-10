@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspNetCoreServicesApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d7b9244f9d35b9e888cd0fb8b1951e5c5850850")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a914f71f583b3691a122e41171fb241ccae486b")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspNetCoreServicesApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspNetCoreServicesApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

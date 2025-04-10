@@ -27,15 +27,16 @@ if (!app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-app.UseStaticFiles();
-
 app.UseRouting();
 
 app.UseAuthorization();
+
+app.MapStaticAssets();
+
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Location}/{action=Index}/{id?}");
+    pattern: "{controller=Location}/{action=Index}/{id?}")
+    .WithStaticAssets();
 
-app.MapControllers();
 
 app.Run();
