@@ -100,22 +100,20 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "dbo.AspNetUsers [Data]",
+              "Title": "dbo.AspNetUsers.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/AspNetCoreSecurityAppDb/True/SqlTable/dbo.AspNetUsers.sql",
-              "ToolTip": "dbo.AspNetUsers [Data]",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/AspNetCoreSecurityAppDb/True/SqlTable/dbo.AspNetUsers.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-04-19T13:03:38.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T13:03:38.23Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "dbo.AspNetRoles [Data]",
+              "Title": "dbo.AspNetRoles.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/AspNetCoreSecurityAppDb/True/SqlTable/dbo.AspNetRoles.sql",
-              "ToolTip": "dbo.AspNetRoles [Data]",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/AspNetCoreSecurityAppDb/True/SqlTable/dbo.AspNetRoles.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-04-19T13:01:36.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T13:01:36.455Z"
             },
             {
               "$type": "Document",
@@ -127,8 +125,7 @@
               "RelativeToolTip": "AspNetCoreSecurityApp\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAWwBYAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T11:14:12.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T11:14:12.85Z"
             },
             {
               "$type": "Document",
@@ -152,8 +149,7 @@
               "RelativeToolTip": "AspNetCoreSecurityApp\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
               "ViewState": "AgIAAJIAAAAAAAAAAIAzwJgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T11:12:55.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T11:12:55.242Z"
             },
             {
               "$type": "Document",
@@ -163,7 +159,7 @@
               "RelativeDocumentMoniker": "AspNetCoreSecurityApp\\Controllers\\HomeController.cs",
               "ToolTip": "F:\\GitHubRepositories\\WebApplicationDesign\\AspNetCoreSecurityApp\\AspNetCoreSecurityApp\\Controllers\\HomeController.cs",
               "RelativeToolTip": "AspNetCoreSecurityApp\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-19T11:04:50.999Z",
               "EditorCaption": ""
@@ -171,12 +167,11 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "dbo.AspNetUserRoles [Data]",
+              "Title": "dbo.AspNetUserRoles.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/AspNetCoreSecurityAppDb/True/SqlTable/dbo.AspNetUserRoles.sql",
-              "ToolTip": "dbo.AspNetUserRoles [Data]",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/AspNetCoreSecurityAppDb/True/SqlTable/dbo.AspNetUserRoles.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-04-19T13:04:28.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T13:04:28.076Z"
             },
             {
               "$type": "Document",
@@ -188,8 +183,7 @@
               "RelativeToolTip": "AspNetCoreSecurityApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T12:54:22.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T12:54:22.482Z"
             },
             {
               "$type": "Document",
@@ -201,8 +195,7 @@
               "RelativeToolTip": "AspNetCoreSecurityApp\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-19T11:03:34.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T11:03:34.578Z"
             },
             {
               "$type": "Document",
