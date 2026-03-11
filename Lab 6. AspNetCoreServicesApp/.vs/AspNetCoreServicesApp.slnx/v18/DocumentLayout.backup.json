@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\Desktop\\AspNetCoreServicesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2138D75E-4FC1-EF88-F4A2-3B3784B78943}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|c:\\users\\gabri\\desktop\\aspnetcoreservicesapp\\aspnetcoreservicesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2138D75E-4FC1-EF88-F4A2-3B3784B78943}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|solutionrelative:aspnetcoreservicesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2138D75E-4FC1-EF88-F4A2-3B3784B78943}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|c:\\users\\gabri\\desktop\\aspnetcoreservicesapp\\aspnetcoreservicesapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2138D75E-4FC1-EF88-F4A2-3B3784B78943}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|solutionrelative:aspnetcoreservicesapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2138D75E-4FC1-EF88-F4A2-3B3784B78943}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|c:\\users\\gabri\\desktop\\aspnetcoreservicesapp\\aspnetcoreservicesapp\\services\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2138D75E-4FC1-EF88-F4A2-3B3784B78943}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|solutionrelative:aspnetcoreservicesapp\\services\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2138D75E-4FC1-EF88-F4A2-3B3784B78943}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|c:\\users\\gabri\\desktop\\aspnetcoreservicesapp\\aspnetcoreservicesapp\\services\\interfaces\\ilog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2138D75E-4FC1-EF88-F4A2-3B3784B78943}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|solutionrelative:aspnetcoreservicesapp\\services\\interfaces\\ilog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2138D75E-4FC1-EF88-F4A2-3B3784B78943}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|c:\\users\\gabri\\desktop\\aspnetcoreservicesapp\\aspnetcoreservicesapp\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2138D75E-4FC1-EF88-F4A2-3B3784B78943}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|solutionrelative:aspnetcoreservicesapp\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2138D75E-4FC1-EF88-F4A2-3B3784B78943}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|c:\\users\\gabri\\desktop\\aspnetcoreservicesapp\\aspnetcoreservicesapp\\views\\test\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2138D75E-4FC1-EF88-F4A2-3B3784B78943}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|solutionrelative:aspnetcoreservicesapp\\views\\test\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2138D75E-4FC1-EF88-F4A2-3B3784B78943}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|c:\\users\\gabri\\desktop\\aspnetcoreservicesapp\\aspnetcoreservicesapp\\views\\test\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2138D75E-4FC1-EF88-F4A2-3B3784B78943}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|solutionrelative:aspnetcoreservicesapp\\views\\test\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2138D75E-4FC1-EF88-F4A2-3B3784B78943}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|c:\\users\\gabri\\desktop\\aspnetcoreservicesapp\\aspnetcoreservicesapp\\views\\test\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2138D75E-4FC1-EF88-F4A2-3B3784B78943}|AspNetCoreServicesApp\\AspNetCoreServicesApp.csproj|solutionrelative:aspnetcoreservicesapp\\views\\test\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILog.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Services\\Interfaces\\ILog.cs",
+              "RelativeDocumentMoniker": "AspNetCoreServicesApp\\Services\\Interfaces\\ILog.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Services\\Interfaces\\ILog.cs",
+              "RelativeToolTip": "AspNetCoreServicesApp\\Services\\Interfaces\\ILog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T11:11:22.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreServicesApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AspNetCoreServicesApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T11:05:23.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Views\\Test\\Home.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreServicesApp\\Views\\Test\\Home.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Views\\Test\\Home.cshtml",
+              "RelativeToolTip": "AspNetCoreServicesApp\\Views\\Test\\Home.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T11:04:19.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Views\\Test\\Contact.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreServicesApp\\Views\\Test\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Views\\Test\\Contact.cshtml",
+              "RelativeToolTip": "AspNetCoreServicesApp\\Views\\Test\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T11:03:52.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Views\\Test\\About.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreServicesApp\\Views\\Test\\About.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Views\\Test\\About.cshtml",
+              "RelativeToolTip": "AspNetCoreServicesApp\\Views\\Test\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T11:03:24.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Program.cs",
+              "RelativeDocumentMoniker": "AspNetCoreServicesApp\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Program.cs",
+              "RelativeToolTip": "AspNetCoreServicesApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T11:00:05.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleLogger.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Services\\ConsoleLogger.cs",
+              "RelativeDocumentMoniker": "AspNetCoreServicesApp\\Services\\ConsoleLogger.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Services\\ConsoleLogger.cs",
+              "RelativeToolTip": "AspNetCoreServicesApp\\Services\\ConsoleLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T11:11:50.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreServicesApp\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\AspNetCoreServicesApp\\AspNetCoreServicesApp\\Controllers\\TestController.cs",
+              "RelativeToolTip": "AspNetCoreServicesApp\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T11:02:27.866Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
